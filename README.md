@@ -1,7 +1,7 @@
 ### Hello 👋
 
 * [Twitter](https://twitter.com/i/user/1022113389248737283)
-* [Web](https://bit.ly/3GzhAEN) (JP)
+* [Web](https://bit.ly/kyohsuke_gh) (JP)
 
 ### Github Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyohsuke&hide=html,css,C%23)
