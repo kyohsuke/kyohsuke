@@ -1,13 +1,13 @@
-### Hello 👋
+### おはよー 👋
 
 * [Twitter](https://twitter.com/i/user/1022113389248737283)
-* [Web](https://bit.ly/kyohsuke_gh) (JP)
+* [雑記Web](https://bit.ly/kyohsuke_gh)
 
-### Github Stats:
+### Github の Stats とか:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyohsuke&hide=html,css,C%23)
 ![](https://github-readme-stats.vercel.app/api?username=kyohsuke&show_icons=true&count_private=true&line_height=40)
 
-### Languages and Tools:
+### 使ってるものとか:
 <a href="https://www.vim.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
 </a>
