@@ -1,7 +1,6 @@
 ### おはよー 👋
 
-* [Twitter](https://twitter.com/i/user/1022113389248737283)
-* [雑記Web](https://bit.ly/kyohsuke_gh)
+魔女の呪いでオッサンにされてしまった女子高生です
 
 ### Github の Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kyohsuke&show_icons=true&count_private=true&line_height=40)
