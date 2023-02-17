@@ -22,14 +22,9 @@
 
 ### 雑記
 <!-- feed start -->
-- Oct 01 - [雑記更新ツイートを Heroku から GitHub Actions に移行した](https://kyohsuke.github.io/misc_notes/heroku_to_actions/)
-- Sep 22 - [evalcache の fish 版を作った](https://kyohsuke.github.io/misc_notes/fish_evalcache/)
-- Jul 12 - [暁月の釣り生活 (6.1)](https://kyohsuke.github.io/misc_notes/endwalker_fish/)
-- Jul 05 - [クリスタルコンフリクト シーズン1結果](https://kyohsuke.github.io/misc_notes/crystal_conflict/)
-- Jun 16 - [Docker for Mac を綺麗な状態で再インストールする](https://kyohsuke.github.io/misc_notes/reinstall_docker/)
-- Apr 30 - [造幣局の展示を見に行ってきた](https://kyohsuke.github.io/misc_notes/mint/)
-- Mar 19 - [チョコボレースという名の虚無](https://kyohsuke.github.io/misc_notes/chocobo_race/)
-- Dec 24 - [ヌシ釣りが暁月までに完結した](https://kyohsuke.github.io/misc_notes/big_fish/)
-- Dec 02 - [zsh の起動を早くする evalcache が最強だった](https://kyohsuke.github.io/misc_notes/eval_cache_zsh/)
-- Oct 20 - [CSSを使って漢字にルビを振る](https://kyohsuke.github.io/misc_notes/ruby_css/)
+- 2022-10-01 [雑記更新ツイートを Heroku から GitHub Actions に移行した](https://kyohsuke.github.io/misc_notes/heroku_to_actions/)
+- 2022-09-22 [evalcache の fish 版を作った](https://kyohsuke.github.io/misc_notes/fish_evalcache/)
+- 2022-07-12 [暁月の釣り生活 (6.1)](https://kyohsuke.github.io/misc_notes/endwalker_fish/)
+- 2022-07-05 [クリスタルコンフリクト シーズン1結果](https://kyohsuke.github.io/misc_notes/crystal_conflict/)
+- 2022-06-16 [Docker for Mac を綺麗な状態で再インストールする](https://kyohsuke.github.io/misc_notes/reinstall_docker/)
 <!-- feed end -->
