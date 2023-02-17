@@ -10,10 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
+        id: feed
         with:
           url: |
             https://kyohsuke.github.io/misc_notes/index.xml
           file: 'README.md'
           max_entry: 10
-      - if: ${{ steps.feed.outputs.changed == true }}
+      - if: ${{ steps.feed.outputs.changed == 1 }}
         uses: sarisia/actions-commit@master
