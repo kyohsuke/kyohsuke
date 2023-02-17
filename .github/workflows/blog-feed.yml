@@ -17,3 +17,6 @@ jobs:
           format: '- ${year}-${02month}-${02day} [${title}](${url})'
       - if: ${{ steps.feed.outputs.changed == 1 }}
         uses: sarisia/actions-commit@master
+        with:
+          name: "github-actions[bot]"
+          email: "41898282+github-actions[bot]@users.noreply.github.com"
