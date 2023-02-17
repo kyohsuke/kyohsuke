@@ -12,9 +12,8 @@ jobs:
       - uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
-          url: |
-            https://kyohsuke.github.io/misc_notes/index.xml
+          url: 'https://kyohsuke.github.io/misc_notes/index.xml'
           file: 'README.md'
-          max_entry: 10
+          format: '- ${year}-${02month}-${02day} [${title}](${url})'
       - if: ${{ steps.feed.outputs.changed == 1 }}
         uses: sarisia/actions-commit@master
