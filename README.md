@@ -6,7 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kyohsuke&show_icons=true&count_private=true&line_height=40)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyohsuke&hide=html,css,C%23)
 
-### 使ってるもの:
+### よく使ってるもの:
 <a href="https://www.vim.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />
 </a>
@@ -20,7 +20,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />
 </a>
 
-### 雑記
+### リンク:
+- [Twitter](https://twitter.com/i/user/1022113389248737283)
+- [ブログ](https://kyohsuke.github.io/)
+- [最近読んでる漫画](https://www.amazon.co.jp/gp/profile/amzn1.account.AFEK5PQQYTK2JCD5HUVJD24XHZ2Q/follows)
+
+### 雑記:
 <!-- feed start -->
 - 2022-10-01 [雑記更新ツイートを Heroku から GitHub Actions に移行した](https://kyohsuke.github.io/misc_notes/heroku_to_actions/)
 - 2022-09-22 [evalcache の fish 版を作った](https://kyohsuke.github.io/misc_notes/fish_evalcache/)
