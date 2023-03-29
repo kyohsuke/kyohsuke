@@ -27,9 +27,9 @@
 
 ### 雑記:
 <!-- feed start -->
+- 2023-03-28 [新しい go と latest なソースからバイナリをビルドしなおす](https://kyohsuke.github.io/misc_notes/bump_up_go_version/)
 - 2022-10-01 [雑記更新ツイートを Heroku から GitHub Actions に移行した](https://kyohsuke.github.io/misc_notes/heroku_to_actions/)
 - 2022-09-22 [evalcache の fish 版を作った](https://kyohsuke.github.io/misc_notes/fish_evalcache/)
 - 2022-07-12 [暁月の釣り生活 (6.1)](https://kyohsuke.github.io/misc_notes/endwalker_fish/)
 - 2022-07-05 [クリスタルコンフリクト シーズン1結果](https://kyohsuke.github.io/misc_notes/crystal_conflict/)
-- 2022-06-16 [Docker for Mac を綺麗な状態で再インストールする](https://kyohsuke.github.io/misc_notes/reinstall_docker/)
 <!-- feed end -->
