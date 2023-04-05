@@ -14,7 +14,7 @@ jobs:
         with:
           url: 'https://kyohsuke.github.io/misc_notes/index.xml'
           file: 'README.md'
-          format: '- ${year}-${02month}-${02day} [${title}](${url})'
+          format: '- ${year}-${02month}-${02day} [${title}](${url}?utm_source=github&utm_medium=profile)'
       - if: ${{ steps.feed.outputs.changed == 1 }}
         uses: sarisia/actions-commit@master
         with:
