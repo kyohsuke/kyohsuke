@@ -15,6 +15,7 @@
 - [Twitter](https://twitter.com/i/user/1022113389248737283)
 - [ブログ](https://kyohsuke.github.io/)
 - [最近読んでる漫画](https://www.amazon.co.jp/gp/profile/amzn1.account.AFEK5PQQYTK2JCD5HUVJD24XHZ2Q/follows)
+- <a rel="me" href="https://mastodon.social/@kyohsuke">Mastodon</a>
 
 ### よく使ってるもの:
 <a href="https://www.vim.org/" target="_blank">
