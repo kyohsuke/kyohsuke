@@ -13,7 +13,7 @@
 
 ### リンク:
 - [Twitter](https://twitter.com/i/user/1022113389248737283)
-- [Mastodon](https://mastodon.social/@kyohsuke)
+- <a rel="nofollow me" class="Link--primary" href="https://mastodon.social/@kyohsuke">Mastodon</a>
 - [ブログ](https://kyohsuke.github.io/)
 - [最近読んでる漫画](https://www.amazon.co.jp/gp/profile/amzn1.account.AFEK5PQQYTK2JCD5HUVJD24XHZ2Q/follows)
 
