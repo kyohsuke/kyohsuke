@@ -1,10 +1,6 @@
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron:  '0 20 * * *'
+    types: [update_blog_feed]
 jobs:
   readme:
     runs-on: ubuntu-latest
