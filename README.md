@@ -4,11 +4,11 @@
 
 ### 雑記:
 <!-- feed start -->
+- 2023-11-15 [サイトのテーマを変更して一新](https://kyohsuke.github.io/misc_notes/brand_new_site/?utm_source=github&utm_medium=profile)
 - 2023-03-28 [新しい go と latest なソースからバイナリをビルドしなおす](https://kyohsuke.github.io/misc_notes/bump_up_go_version/?utm_source=github&utm_medium=profile)
 - 2022-10-01 [雑記更新ツイートを Heroku から GitHub Actions に移行した](https://kyohsuke.github.io/misc_notes/heroku_to_actions/?utm_source=github&utm_medium=profile)
 - 2022-09-22 [evalcache の fish 版を作った](https://kyohsuke.github.io/misc_notes/fish_evalcache/?utm_source=github&utm_medium=profile)
 - 2022-07-12 [暁月の釣り生活 (6.1)](https://kyohsuke.github.io/misc_notes/endwalker_fish/?utm_source=github&utm_medium=profile)
-- 2022-07-05 [クリスタルコンフリクト シーズン1結果](https://kyohsuke.github.io/misc_notes/crystal_conflict/?utm_source=github&utm_medium=profile)
 <!-- feed end -->
 
 ### リンク:
