@@ -1,6 +1,7 @@
 on:
+  repository_dispatch:
+    types: [update-blog-feed]
   workflow_dispatch:
-    types: [update_blog_feed]
 jobs:
   readme:
     runs-on: ubuntu-latest
