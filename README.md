@@ -22,6 +22,6 @@
 <!-- feed end -->
 
 ## :globe_with_meridians: Socials
-- [Bluesky](https://bsky.app/profile/kyohsuke.bsky.social)
+- [Bluesky](https://bsky.app/profile/kyohsuke.net)
 - [Twitter](https://twitter.com/i/user/1022113389248737283)
 - [Mastodon](https://mastodon.social/@kyohsuke)
