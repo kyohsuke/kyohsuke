@@ -14,11 +14,11 @@
 
 ## :memo: Blog (in japanese)
 <!-- feed start -->
+- 2024-03-17 [fish shell に function path を追加する正しい方法](https://kyohsuke.net/misc_notes/add_fish_function_path/?utm_source=github&utm_medium=profile)
 - 2023-11-15 [サイトのテーマを変更して一新](https://kyohsuke.net/misc_notes/brand_new_site/?utm_source=github&utm_medium=profile)
 - 2023-03-28 [新しい go と latest なソースからバイナリをビルドしなおす](https://kyohsuke.net/misc_notes/bump_up_go_version/?utm_source=github&utm_medium=profile)
 - 2022-10-01 [雑記更新ツイートを Heroku から GitHub Actions に移行した](https://kyohsuke.net/misc_notes/heroku_to_actions/?utm_source=github&utm_medium=profile)
 - 2022-09-22 [evalcache の fish 版を作った](https://kyohsuke.net/misc_notes/fish_evalcache/?utm_source=github&utm_medium=profile)
-- 2022-07-12 [暁月の釣り生活 (6.1)](https://kyohsuke.net/misc_notes/endwalker_fish/?utm_source=github&utm_medium=profile)
 <!-- feed end -->
 
 ## :globe_with_meridians: Socials
