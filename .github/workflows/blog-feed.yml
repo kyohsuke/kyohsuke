@@ -7,11 +7,12 @@ permissions:
 jobs:
   readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     steps:
       - name: Sleep Action
         uses: juliangruber/sleep-action@v2.0.3
         with:
-          time: 2m
+          time: 5m
 
       - uses: actions/checkout@v4
 
