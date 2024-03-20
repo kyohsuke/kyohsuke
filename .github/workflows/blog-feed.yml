@@ -11,7 +11,7 @@ jobs:
       - name: Sleep Action
         uses: juliangruber/sleep-action@v2.0.3
         with:
-          time: 90s
+          time: 2m
 
       - uses: actions/checkout@v4
 
