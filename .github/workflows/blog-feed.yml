@@ -7,22 +7,21 @@ permissions:
 jobs:
   readme:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 5
     steps:
-      - name: Sleep Action
-        uses: juliangruber/sleep-action@v2.0.3
-        with:
-          time: 5m
+      - name: checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/checkout@v4
-
-      - uses: sarisia/actions-readme-feed@v1
+      - name: check blog feeds
+        uses: sarisia/actions-readme-feed@v1
         id: feed
         with:
           url: 'https://kyohsuke.github.io/misc_notes/index.xml'
           file: 'README.md'
           format: '- ${year}-${02month}-${02day} [${title}](${url}?utm_source=github&utm_medium=profile)'
-      - if: ${{ steps.feed.outputs.changed == 1 }}
+
+      - name: commit changes if updated
+        if: ${{ steps.feed.outputs.changed == 1 }}
         uses: sarisia/actions-commit@master
         with:
           name: "github-actions[bot]"
