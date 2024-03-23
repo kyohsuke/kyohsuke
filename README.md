@@ -1,16 +1,19 @@
 ### hey there! 👋, I'm kyohsuke
 
-[![Github](https://img.shields.io/github/followers/kyohsuke?label=Follow&style=social)](https://github.com/kyoshuke)
+[![Github](https://img.shields.io/github/followers/kyohsuke?label=Follow&style=social)](https://github.com/kyohsuke)
 
 ## :bar_chart: GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=kyohsuke&show_icons=true&count_private=true&line_height=40)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kyohsuke&hide=html,css,C%23)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyohsuke&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kyohsuke&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kyohsuke&theme=github)
+
 
 ## :hammer_and_wrench: Most Frequently Used Languages & Tools
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="rails" width="40" height="40" />](https://go.dev)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />](https://www.ruby-lang.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />](https://www.vim.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />](https://rubyonrails.org)
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="rails" width="40" height="40" />](https://go.dev)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />](https://www.ruby-lang.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />](https://www.vim.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />](https://rubyonrails.org)
 
 ## :memo: Blog (in japanese)
 <!-- feed start -->
@@ -22,6 +25,7 @@
 <!-- feed end -->
 
 ## :globe_with_meridians: Socials
+
 - [Bluesky](https://bsky.app/profile/kyohsuke.net)
 - [Twitter](https://twitter.com/i/user/1022113389248737283)
 - [Mastodon](https://mastodon.social/@kyohsuke)
