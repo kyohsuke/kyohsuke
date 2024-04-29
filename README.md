@@ -12,8 +12,10 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="rails" width="40" height="40" />](https://go.dev)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />](https://www.ruby-lang.org)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />](https://www.vim.org)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />](https://rubyonrails.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />](https://www.postgresql.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="MySQL" width="40" height="40" />](https://redis.io/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />](https://www.vim.org)
 
 ## :memo: Blog (in japanese)
 <!-- feed start -->
@@ -25,7 +27,6 @@
 <!-- feed end -->
 
 ## :globe_with_meridians: Socials
-
-- [Bluesky](https://bsky.app/profile/kyohsuke.net)
-- [Twitter](https://twitter.com/i/user/1022113389248737283)
-- [Mastodon](https://mastodon.social/@kyohsuke)
+- [<img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg"/>Bluesky](https://bsky.app/profile/kyohsuke.net)
+- [<img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/twitter.svg"/>Twitter](https://twitter.com/i/user/1022113389248737283)
+- [<img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mastodon.svg"/>Mastodon](https://mastodon.social/@kyohsuke)
