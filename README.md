@@ -22,7 +22,7 @@
 - 2024-04-06 [国立公文書館に行ってきた](https://kyohsuke.net/misc_notes/naoj/?utm_source=github&utm_medium=profile)
 - 2024-03-17 [fish shell に function path を追加する正しい方法](https://kyohsuke.net/misc_notes/add_fish_function_path/?utm_source=github&utm_medium=profile)
 - 2023-11-15 [サイトのテーマを変更して一新](https://kyohsuke.net/misc_notes/brand_new_site/?utm_source=github&utm_medium=profile)
-- 2023-03-28 [新しい go と latest なソースからバイナリをビルドしなおす](https://kyohsuke.net/misc_notes/bump_up_go_version/?utm_source=github&utm_medium=profile)
+- 2023-03-29 [新しい go と latest なソースからバイナリをビルドしなおす](https://kyohsuke.net/misc_notes/bump_up_go_version/?utm_source=github&utm_medium=profile)
 - 2022-10-01 [雑記更新ツイートを Heroku から GitHub Actions に移行した](https://kyohsuke.net/misc_notes/heroku_to_actions/?utm_source=github&utm_medium=profile)
 <!-- feed end -->
 
