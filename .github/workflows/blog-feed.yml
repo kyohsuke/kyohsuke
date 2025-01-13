@@ -19,6 +19,7 @@ jobs:
           url: 'https://kyohsuke.net/misc_notes/index.xml'
           file: 'README.md'
           format: '- ${year}-${02month}-${02day} [${title}](${url}?utm_source=github&utm_medium=profile)'
+          timezone: "Asia/Tokyo"
 
       - name: commit changes if updated
         if: ${{ steps.feed.outputs.changed == 1 }}
