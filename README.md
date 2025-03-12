@@ -19,11 +19,11 @@
 
 ## :memo: Blog (in japanese)
 <!-- feed start -->
+- 2025-03-12 [JSON Feed なるものを追加してみた](https://kyohsuke.net/misc_notes/20250312/?utm_source=github&utm_medium=profile)
 - 2024-04-06 [国立公文書館に行ってきた](https://kyohsuke.net/misc_notes/20240406/?utm_source=github&utm_medium=profile)
 - 2024-03-17 [fish shell に function path を追加する正しい方法](https://kyohsuke.net/misc_notes/20240317/?utm_source=github&utm_medium=profile)
 - 2023-11-15 [サイトのテーマを変更して一新](https://kyohsuke.net/misc_notes/20231115/?utm_source=github&utm_medium=profile)
 - 2023-03-29 [新しい go と latest なソースからバイナリをビルドしなおす](https://kyohsuke.net/misc_notes/20230329/?utm_source=github&utm_medium=profile)
-- 2022-10-01 [雑記更新ツイートを Heroku から GitHub Actions に移行した](https://kyohsuke.net/misc_notes/20221001/?utm_source=github&utm_medium=profile)
 <!-- feed end -->
 
 ## :globe_with_meridians: Socials
