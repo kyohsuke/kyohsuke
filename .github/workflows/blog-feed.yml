@@ -10,7 +10,7 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: checkout
-        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        uses: actions/checkout@08c6903cd8c0fde910a37f88322edcfb5dd907a8 # v5.0.0
 
       - name: check blog feeds
         uses: sarisia/actions-readme-feed@bdde7fdb36e19b030b77cf1f7b7f09db68219f32 # v1.10.1
