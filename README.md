@@ -26,10 +26,5 @@
 - 2023-03-29 [新しい go と latest なソースからバイナリをビルドしなおす](https://kyohsuke.net/misc_notes/20230329/?utm_source=github&utm_medium=profile)
 <!-- feed end -->
 
-## :globe_with_meridians: Socials
-- [<img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg"/>Bluesky](https://bsky.app/profile/kyohsuke.net)
-- [<img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mastodon.svg"/>Mastodon](https://mastodon.social/@kyohsuke)
-
-
-
+---
 [<img height="40" width="200" src="https://github.com/user-attachments/assets/0615f060-e5cc-49e0-a8d3-4be3980473d3"/>](https://sites.google.com/view/happy-busy/)
