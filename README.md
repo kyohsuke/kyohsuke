@@ -9,13 +9,7 @@
 
 
 ## :hammer_and_wrench: Most Frequently Used Languages & Tools
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="rails" width="40" height="40" />](https://go.dev)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" />](https://www.ruby-lang.org)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" />](https://rubyonrails.org)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />](https://www.postgresql.org)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="MySQL" width="40" height="40" />](https://redis.io/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="40" height="40" />](https://www.vim.org)
+[![My Skills](https://skillicons.dev/icons?i=go,ruby,rails,postgresql,redis,apple,vim&theme=light)](https://skillicons.dev)
 
 ## :memo: Blog (in japanese)
 <!-- feed start -->
@@ -28,3 +22,4 @@
 
 ---
 [<img height="40" width="200" src="https://github.com/user-attachments/assets/0615f060-e5cc-49e0-a8d3-4be3980473d3"/>](https://sites.google.com/view/happy-busy/)
+[<img src="https://www.f-counter.net/j/67/1778028809/" alt="アクセスカウンター"/>](https://www.stylemap.co.jp/")
